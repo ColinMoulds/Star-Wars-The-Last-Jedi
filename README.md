@@ -1,9 +1,9 @@
 [![StarWars](https://hips.htvapps.com/htv-prod-media.s3.amazonaws.com/images/the-last-jedi-pic-1513354222.jpg)]
 
 <h1 align="center">Star Wars - The Last Jedi</h1>
+<h2 aligh="center">Preview mid animation below</h2>
 
-This is just a small project i decided to do, its made with html, js & css.
-
+[![Preview](https://i.gyazo.com/27a6ec80aac9b5378270a64960f29d8a.png)]
 
 ## Built With
 
